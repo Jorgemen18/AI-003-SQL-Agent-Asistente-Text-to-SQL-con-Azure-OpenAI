@@ -9,7 +9,8 @@ Este proyecto es un Agente de Inteligencia Artificial diseñado para un entorno 
 * **Interfaz Interactiva de Terminal:** Ciclo de ejecución continuo para consultas en tiempo real.
 
 ## 📸 Demostración
-<img width="913" height="405" alt="Captura de pantalla 2026-07-27 134735" src="https://github.com/user-attachments/assets/480d4eca-2798-4fda-86ca-786c7c45503c" />
+<img width="1208" height="418" alt="Captura de pantalla 2026-07-27 134446" src="https://github.com/user-attachments/assets/b432a948-0093-443e-90e6-3091e2d08dee" />
+
 
 
 ## 🛠️ Tecnologías Utilizadas
