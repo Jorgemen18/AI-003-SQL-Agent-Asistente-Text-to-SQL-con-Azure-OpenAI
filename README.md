@@ -26,4 +26,4 @@ Este proyecto es un Agente de Inteligencia Artificial diseñado para un entorno 
    AZURE_OPENAI_ENDPOINT="tu_endpoint"
    AZURE_OPENAI_API_KEY="tu_llave"
    AZURE_OPENAI_DEPLOYMENT_NAME="tu_modelo"
-   ´´´
+   ´´´<img width="1208" height="418" alt="Captura de pantalla 2026-07-27 134446" src="https://github.com/user-attachments/assets/ecbe66ab-cb1e-4214-a9c3-2ed7c4e7e84b" />
